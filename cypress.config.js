@@ -8,6 +8,7 @@ module.exports = defineConfig({
       // implement node event listeners here
     },
   },
+  projectId: "xz65ro",
   viewportWidth: 1000,
   viewportHeight: 660,
   pageLoadTimeout: 80000,
